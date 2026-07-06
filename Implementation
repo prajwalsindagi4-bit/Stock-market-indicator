@@ -1,0 +1,36 @@
+How to Add This Indicator to TradingView
+
+Follow these steps to load this custom indicator onto your TradingView chart:
+
+Step 1: Copy the Code from GitHub
+
+Navigate to the .pine file (or text file) in this repository that contains the indicator code.
+Click on the file to open it.
+Click the "Copy raw contents" button (the two overlapping squares icon near the top right of the code box), or manually highlight and copy all the text.
+
+Step 2: Open TradingView
+
+Log into your TradingView account.
+Open any active chart.
+
+Step 3: Open the Pine Editor
+
+Look at the very bottom of your TradingView chart screen.
+Click on the Pine Editor tab. (If you don't see it, look for an arrow at the bottom of the screen to expand the bottom panel).
+
+Step 4: Paste the Code
+
+In the Pine Editor, you will likely see a few lines of default code (like //@version=5 and indicator("My script")).
+Delete everything in that window so it is completely blank.
+Paste the code you copied from GitHub into the empty Pine Editor window.
+
+Step 5: Save and Apply
+
+In the top right corner of the Pine Editor panel, click the Save button. Name the script whatever you like.
+Once saved, click the Add to Chart button (located right next to the Save button).
+The indicator should now appear on your chart!
+
+Step 6: Adjust Settings (Optional)
+
+Hover over the indicator's name in the top-left corner of your chart (or in a separate pane below the chart).
+Click the Settings gear icon to adjust any inputs, colors, or styles to your preference.
